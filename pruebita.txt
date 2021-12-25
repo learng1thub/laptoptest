@@ -1,3 +1,3 @@
 esta es otra de esas pruebas que voy a hacer
 para entender git
-esta linea es para un segundo commit solamente
+esta linea es para un segundo commit solamente antes del cambio
